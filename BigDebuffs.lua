@@ -429,6 +429,7 @@ BigDebuffs.Spells = {
 
 	-- Warlock
 
+	[234153] = { type = "cc" }, -- Drain Life -- this isn't a CC per se, but needs an instant reaction
 	[710] = { type = "cc" }, -- Banish
 	[5484] = { type = "cc" }, -- Howl of Terror
 	[6358] = { type = "cc" }, -- Seduction
