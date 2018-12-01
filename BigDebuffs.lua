@@ -225,7 +225,7 @@ BigDebuffs.Spells = {
 	[19386] = { type = "cc" }, -- Wyvern Sting
 	[19574] = { type = "buffs_offensive" }, -- Bestial Wrath
 	[19577] = { type = "cc" }, -- Intimidation
-	[212638] = { type = "root" }, -- Tracker's Net
+	[212638] = { type = "roots" }, -- Tracker's Net
 		[24394] = { type = "cc", parent = 19577 }, -- Intimidation
 	[53480] = { type = "buffs_defensive" }, -- Roar of Sacrifice (Hunter Pet Skill)
 	[117526] = { type = "roots" }, -- Binding Shot
