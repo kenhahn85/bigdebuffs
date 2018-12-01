@@ -225,7 +225,7 @@ BigDebuffs.Spells = {
 	[19386] = { type = "cc" }, -- Wyvern Sting
 	[19574] = { type = "buffs_offensive" }, -- Bestial Wrath
 	[19577] = { type = "cc" }, -- Intimidation
-	[212638] = { type = "cc" }, -- Tracker's Net
+	[212638] = { type = "root" }, -- Tracker's Net
 		[24394] = { type = "cc", parent = 19577 }, -- Intimidation
 	[53480] = { type = "buffs_defensive" }, -- Roar of Sacrifice (Hunter Pet Skill)
 	[117526] = { type = "roots" }, -- Binding Shot
@@ -431,7 +431,7 @@ BigDebuffs.Spells = {
 
 	[234153] = { type = "cc" }, -- Drain Life -- this isn't a CC per se, but needs an instant reaction
 	[710] = { type = "cc" }, -- Banish
-	[233581] = { type = "cc" }, -- Entrenched in Flame
+	[233581] = { type = "roots" }, -- Entrenched in Flame
 	[5484] = { type = "cc" }, -- Howl of Terror
 	[6358] = { type = "cc" }, -- Seduction
 		[115268] = { type = "cc", parent = 6358 }, -- Mesmerize
