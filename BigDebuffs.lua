@@ -258,7 +258,8 @@ BigDebuffs.Spells = {
 		[61721] = { type = "cc", parent = 118 }, -- Polymorph Rabbit
 		[61780] = { type = "cc", parent = 118 }, -- Polymorph Turkey
 		[126819] = { type = "cc", parent = 118 }, -- Polymorph Porcupine
-		[161353] = { type = "cc", parent = 118 }, -- Polymorph Polar Bear Cub
+		[
+	353] = { type = "cc", parent = 118 }, -- Polymorph Polar Bear Cub
 		[161354] = { type = "cc", parent = 118 }, -- Polymorph Monkey
 		[161355] = { type = "cc", parent = 118 }, -- Polymorph Penguin
 		[161372] = { type = "cc", parent = 118 }, -- Polymorph Peacock
@@ -432,7 +433,7 @@ BigDebuffs.Spells = {
 	[234153] = { type = "cc" }, -- Drain Life -- this isn't a CC per se, but needs an instant reaction
 	[710] = { type = "cc" }, -- Banish
 	[233581] = { type = "roots" }, -- Entrenched in Flame
-	[161] = { type = "roots" }, -- Entrenched in Flame
+	[233582] = { type = "roots" }, -- Entrenched in Flame
 	[5484] = { type = "cc" }, -- Howl of Terror
 	[6358] = { type = "cc" }, -- Seduction
 		[115268] = { type = "cc", parent = 6358 }, -- Mesmerize
