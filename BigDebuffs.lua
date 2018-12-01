@@ -431,7 +431,8 @@ BigDebuffs.Spells = {
 
 	[234153] = { type = "cc" }, -- Drain Life -- this isn't a CC per se, but needs an instant reaction
 	[710] = { type = "cc" }, -- Banish
-	[233581] = { type = "cc" }, -- Entrenched in Flame
+	[233581] = { type = "roots" }, -- Entrenched in Flame
+	[161] = { type = "roots" }, -- Entrenched in Flame
 	[5484] = { type = "cc" }, -- Howl of Terror
 	[6358] = { type = "cc" }, -- Seduction
 		[115268] = { type = "cc", parent = 6358 }, -- Mesmerize
